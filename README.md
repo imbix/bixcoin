@@ -1,0 +1,2 @@
+# bixcoin
+imBIX aims to establish an open, transparent decentralized settlement and payment platform to provide the best cryptocurrency management solutions and cross-chain communication solutions. imBIX is a digital currency token used to transfer value and unite the community on the imBIX platform. imBIX is the first accounting-as-mining platform. It respects and protects the core interests of each user through a more reasonable and fair reward and punishment mechanism.
